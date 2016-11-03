@@ -5,4 +5,4 @@
 
  PLease click the link below to get sample data 
 
- [Sample Data]() 
+ [Sample Data](https://github.com/ananda2016/MacTrackz/blob/master/SampleData/data1.txt) 

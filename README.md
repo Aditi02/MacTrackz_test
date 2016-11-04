@@ -3,7 +3,7 @@ Machine Learning Term Project , Autumn 2016 , IIIT Kharagpur
 
 1. [ Project Proposal ](https://github.com/ananda2016/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/ananda2016/MacTrackz/blob/master/Docs/Dataset.md) 
-3. Solution over view
+3. [Solution over view]()
 4. Preporocesing(of TE)
 5. Model Building(learning algo : detail discussion)
 6. Post Processing(Integration part)
